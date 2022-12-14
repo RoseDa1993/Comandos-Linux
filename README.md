@@ -47,6 +47,3 @@ ps -aux > copiar archivos
 df -h > administrar disco
 
 Este es un bonus ;) > Telnet towel.blinkenlights.nl > star Wars IV 
-
-
-
